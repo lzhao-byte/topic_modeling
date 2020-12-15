@@ -1,0 +1,1410 @@
+keyword_terms,paper_id
+3D GIS,15472450903385999
+autonomous navigation,15472450903385999
+data fusion,15472450903385999
+geographical 3D model geolocalization,15472450903385999
+GPS,15472450903385999
+intelligent vehicle,15472450903385999
+vision,15472450903385999
+Bayesian network,15472450903386005
+driving-lane recognition,15472450903386005
+lane-color recognition,15472450903386005
+lane detection,15472450903386005
+support vector machines,15472450903386005
+video-based navigation system,15472450903386005
+Global Positioning System,15472450903386013
+Kalman filter,15472450903386013
+map-matching,15472450903386013
+vehicle navigation system,15472450903386013
+median absolute deviation,15472451003719699
+probe vehicle,15472451003719699
+sensor location,15472451003719699
+sensor spacing,15472451003719699
+travel-time estimation,15472451003719699
+travel-time evaluation,15472451003719699
+travel-time representation,15472451003719699
+cell transmission model,15472451003719715
+heterogeneous mobility,15472451003719715
+macroscopic model,15472451003719715
+traffic network,15472451003719715
+sampling,15472451003719723
+stratified sampling,15472451003719723
+probe vehicles,15472451003719723
+traffic monitoring,15472451003719723
+adaptive signal control,15472451003719756
+microscopic simulation,15472451003719756
+optimization,15472451003719756
+adaptive traffic control systems,15472451003719764
+calibration,15472451003719764
+field evaluation,15472451003719764
+traffic modeling,15472451003719764
+validation,15472451003719764
+Demand Uncertainty,15472450.2010.484740
+Infrastructure Investments,15472450.2010.484740
+Congestion,15472450.2010.484740
+Road Tolling,15472450.2010.484740
+Optimal Capacity,15472450.2010.484740
+preference for flexibility,15472450.2010.484742
+quasi-option value,15472450.2010.484742
+experimental economics,15472450.2010.484742
+travel behavior,15472450.2010.484742
+traffic information,15472450.2010.484742
+information value,15472450.2010.484746
+search theory,15472450.2010.484746
+discrete choice,15472450.2010.484746
+travel simulator,15472450.2010.484746
+uncertainty,15472450.2010.484746
+Time Variability,15472450.2010.484749
+Rank-Dependent Expected Utility Theory,15472450.2010.484749
+Air Route Choice,15472450.2010.484749
+travel-time reliability,15472450.2010.484751
+reliability ratio,15472450.2010.484751
+value of reliability,15472450.2010.484751
+unexpected delay,15472450.2010.484751
+unexpected early,15472450.2010.484751
+mode travel time,15472450.2010.484751
+Navigation,15472450.2010.484753
+A*,15472450.2010.484753
+Risk,15472450.2010.484753
+Guidance,15472450.2010.484753
+Algorithm,15472450.2010.484753
+Traffic Flow System,15472450.2010.516226
+Lane Drop,15472450.2010.516226
+Stop-and-Go System,15472450.2010.516226
+Traffic Flow Efficiency,15472450.2010.516226
+Active Accelerator Pedal,15472450.2010.516226
+Driver Compliance,15472450.2010.516229
+Variable-Message Signs,15472450.2010.516229
+Logistic Regression,15472450.2010.516229
+Artificial Neural Networks,15472450.2010.516229
+Hybrid Tree,15472450.2010.516229
+Data Mining,15472450.2010.516229
+Advanced Traveler Information Systems,15472450.2010.516229
+Emergency Service,15472450.2010.516232
+Integer Programming,15472450.2010.516232
+Service Programming,15472450.2010.516232
+Service Demand,15472450.2010.516232
+Travel Time,15472450.2010.516232
+Advanced Traveler Information,15472450.2010.517477
+Intelligent Transportation Systems,15472450.2010.517477
+Transportation Modeling,15472450.2010.517477
+Time Travel Reliability,15472450.2010.517477
+Vehicle Reidentification,15472450.2011.544571
+WIM,15472450.2011.544571
+Weigh-in-Motion,15472450.2011.544571
+Mixture Models,15472450.2011.544571
+Bayesian,15472450.2011.544571
+Expert Knowledge,15472450.2011.544576
+Fuzzy Logic,15472450.2011.544576
+Neuro-Fuzzy,15472450.2011.544576
+Travel Demand Estimation,15472450.2011.544576
+Uncertainty,15472450.2011.544576
+Hazmat Transport,15472450.2011.544584
+Real-Time Weather and Traffic Information,15472450.2011.544584
+GIS,15472450.2011.544584
+Route Guidance,15472450.2011.544584
+Lane Departure Warning Systems,15472450.2011.544587
+Intelligent Vehicles,15472450.2011.544587
+Integrated Vehicle-Based Safety Systems,15472450.2011.544587
+Pavement Markings,15472450.2011.544587
+Retroreflectivity,15472450.2011.544587
+Dynamic Early Merge,15472450.2011.544589
+Dynamic Late Merge,15472450.2011.544589
+Work Zone,15472450.2011.544589
+Intelligent Transportation System,15472450.2011.544589
+Lane Management,15472450.2011.544589
+Freeway Traffic Monitoring,15472450.2011.570103
+Fuzzy Logic,15472450.2011.570103
+GPS,15472450.2011.570103
+Map Matching,15472450.2011.570103
+Shortest Path,15472450.2011.570103
+Artificial Neural Networks,15472450.2011.570109
+Australia,15472450.2011.570109
+Bus Travel Times,15472450.2011.570109
+GPS,15472450.2011.570109
+Travel-Time Prediction,15472450.2011.570109
+Electronic Screening,15472450.2011.570111
+Goods Transportation,15472450.2011.570111
+Large Trucks,15472450.2011.570111
+Traffic Operations,15472450.2011.570111
+Weigh-in-Motion,15472450.2011.570111
+Adaptive Kalman Filter,15472450.2011.570114
+SARIMA,15472450.2011.570114
+Traffic Propagation,15472450.2011.570114
+Travel-Time Prediction,15472450.2011.570114
+Intelligent Transportation System Architecture,15472450.2011.594669
+Multi-Criteria Decision Analysis,15472450.2011.594669
+Fuzzy Real Option Analysis,15472450.2011.594669
+Group Multi-Objective Decision Making,15472450.2011.594669
+Wireless Communication,15472450.2011.594681
+On-Line Traffic Management,15472450.2011.594681
+WiFi,15472450.2011.594681
+WiMAX,15472450.2011.594681
+Connectivity,15472450.2011.594691
+Interbus Communication Networks,15472450.2011.594691
+Transport Models,15472450.2011.594691
+Vehicular Ad-Hoc Networks,15472450.2011.594691
+Intervehicle Communication,15472450.2011.620474
+Content Distribution,15472450.2011.620474
+Peer-to-Peer,15472450.2011.620474
+Optimization,15472450.2011.620474
+Intelligent Transportation Systems,15472450.2011.620478
+Map-Matching,15472450.2011.620478
+Trajectory,15472450.2011.620478
+Fuzzy,15472450.2011.620478
+Behavior,15472450.2011.620478
+Link Flow Estimation,15472450.2011.620487
+Random Algorithm,15472450.2011.620487
+Optimal Sensor Location,15472450.2011.620487
+OD and Route Observability,15472450.2011.620487
+Traffic Control,15472450.2011.620490
+Traffic Signal Control,15472450.2011.620490
+Signalized Intersections,15472450.2011.620490
+Autonomous Personal Transportation,15472450.2012.639635
+Autonomous Agents,15472450.2012.639635
+Market-Based Approach,15472450.2012.639635
+Lane-Changing Decision,15472450.2012.639640
+Heavy Vehicles,15472450.2012.639640
+Heavy Traffic Conditions,15472450.2012.639640
+Microscopic Traffic Simulation,15472450.2012.639640
+Adaptive Cruise Control,15472450.2012.639641
+Acceleration Noise,15472450.2012.639641
+Traffic Simulation,15472450.2012.639641
+Driver Behavior,15472450.2012.639641
+Autonomic,15472450.2012.671706
+Distributed Systems,15472450.2012.671706
+Dynamic Traffic Assignment,15472450.2012.671706
+Traffic Network Management,15472450.2012.671706
+Database,15472450.2012.671708
+Multimodal Trip Planning,15472450.2012.671708
+Prediction Algorithm,15472450.2012.671708
+Shortest Path Algorithms,15472450.2012.671708
+Transportation Safety,15472450.2012.671709
+Collision Avoidance,15472450.2012.671709
+Safety Metrics,15472450.2012.671709
+Traffic Congestion,15472450.2012.671711
+Traffic Delay,15472450.2012.671711
+Traffic Flow,15472450.2012.671711
+Traffic Speed,15472450.2012.671711
+Discrete Event Modeling,15472450.2012.671713
+Railway Traffic Management,15472450.2012.671713
+Real-Time Traffic,15472450.2012.671713
+System Capacity Check,15472450.2012.671713
+Train Control,15472450.2012.671713
+Secondary Incidents,15472450.2012.688384
+Traffic Flow,15472450.2012.688384
+Rainfall,15472450.2012.688384
+Neural Networks,15472450.2012.688384
+Logit,15472450.2012.688384
+Mutual Information,15472450.2012.688384
+Partial Derivatives,15472450.2012.688384
+Agent-Based Simulation,15472450.2012.688388
+Tourist Information Systems,15472450.2012.688388
+Tour Scheduling,15472450.2012.688388
+Traveling Salesman Problem,15472450.2012.688388
+Activity Scheduling,15472450.2012.688388
+Changeable Message Signs,15472450.2012.691842
+Variable Speed Limit,15472450.2012.691842
+Reduced Visibility,15472450.2012.691842
+Driver Behavior,15472450.2012.691842
+Probit Model,15472450.2012.691842
+Topological Map-Matching,15472450.2012.691852
+GPS,15472450.2012.691852
+Location-Based ITS Services,15472450.2012.691852
+Genetic Algorithm,15472450.2012.691852
+Detector,15472450.2012.694788
+Data Correction,15472450.2012.694788
+Linear Regression,15472450.2012.694788
+Kernel Regression,15472450.2012.694788
+Crashes,15472450.2012.704340
+Safety,15472450.2012.704340
+Speed,15472450.2012.704340
+Speeding,15472450.2012.704340
+Speed Governor,15472450.2012.704340
+Speed Limiter,15472450.2012.704340
+Truck,15472450.2012.704340
+Gaussian Mixture Model,15472450.2012.706196
+Single-Loop Detectors,15472450.2012.706196
+Speed Estimation,15472450.2012.706196
+Vehicle Classification,15472450.2012.706196
+Vehicle Length Estimation,15472450.2012.706196
+Architecture,15472450.2012.710159
+Evaluation,15472450.2012.710159
+Integer Linear Programming,15472450.2012.710159
+Modeling,15472450.2012.710159
+Optimization,15472450.2012.710159
+Transport Telematic Service,15472450.2012.710159
+Truck Processing Time,15472450.2012.710156
+Gate Service Time,15472450.2012.710156
+Image Processing,15472450.2012.710156
+Low Frame Rate,15472450.2012.710156
+Intelligent Transportation Systems,15472450.2012.710158
+Next-Generation Transportation Models,15472450.2012.710158
+Transportation Research,15472450.2012.710158
+Emissions Modeling,15472450.2012.704336
+Green Routing,15472450.2012.704336
+MOVES,15472450.2012.704336
+Traffic Simulation,15472450.2012.704336
+TRANSIMS,15472450.2012.704336
+Air Quality,15472450.2012.716639
+Climate,15472450.2012.716639
+Dynamic Multi-Objective Network Design Problem,15472450.2012.716639
+Dynamic Traffic Management Measures,15472450.2012.716639
+Efficiency,15472450.2012.716639
+Noise,15472450.2012.716639
+Pareto Optimal Set,15472450.2012.716639
+Traffic Safety,15472450.2012.716639
+Dynamic Speed Limits,15472450.2012.719455
+Environmental Assessment,15472450.2012.719455
+Fundamental Diagrams,15472450.2012.719455
+Speed Distributions,15472450.2012.719455
+Traffic,15472450.2012.719455
+Traffic Emissions,15472450.2012.719455
+Traffic Safety,15472450.2012.719455
+Betweenness,15472450.2012.716663
+Monitoring,15472450.2012.716663
+Traffic Assignment,15472450.2012.716663
+Bluetooth–GPS Data Synchronization,15472450.2013.784653
+Bluetooth Detection Errors,15472450.2013.784653
+Control Delay Models,15472450.2013.784653
+Traffic Delay Analysis,15472450.2013.784653
+Antenna,15472450.2012.696452
+Bluetooth,15472450.2012.696452
+Gain,15472450.2012.696452
+MAC Address,15472450.2012.696452
+Polarization,15472450.2012.696452
+Travel Time,15472450.2012.696452
+Data Fusion,15472450.2012.696449
+Traffic Speed,15472450.2012.696449
+Estimation,15472450.2012.696449
+Bluetooth,15472450.2012.696449
+Intelligent Transportation Systems,15472450.2012.696449
+Bluetooth Detection,15472450.2012.748555
+Nonparametric Model,15472450.2012.748555
+Travel Time Prediction,15472450.2012.748555
+Emissions,15472450.2012.712495
+Inductive Loop Detector,15472450.2012.712495
+MOVES,15472450.2012.712495
+Vehicle Classification,15472450.2012.712495
+Vehicle Reidentification,15472450.2012.712495
+Driving Activity,15472450.2012.704338
+Mathematical Models,15472450.2012.704338
+Traffic Signal Timing Optimization,15472450.2012.704338
+Vehicle Emissions,15472450.2012.704338
+Emissions,15472450.2012.716670
+MOVES,15472450.2012.716670
+Optimization,15472450.2012.716670
+Signal Timing,15472450.2012.716670
+Alternative Power,15472450.2012.716641
+Backup Power,15472450.2012.716641
+Traffic Signals,15472450.2012.716641
+Wind Energy,15472450.2012.716641
+Automated Highways,15472450.2012.716651
+Electric Highways,15472450.2012.716651
+Emissions Modeling,15472450.2012.716651
+Freight Transportation,15472450.2012.716651
+Feedback Control,15472450.2012.721330
+Freeway Traffic Flow Control,15472450.2012.721330
+Mainstream Traffic Flow Control,15472450.2012.721330
+Variable Speed Limits,15472450.2012.721330
+Dynamic Programming,15472450.2012.729380
+Multiple Priority Requests,15472450.2012.729380
+Traffic Control,15472450.2012.729380
+Transit Signal Priority,15472450.2012.729380
+Control Delay,15472450.2013.771105
+Performance Measurement,15472450.2013.771105
+Queue Length,15472450.2013.771105
+Signalized Intersections,15472450.2013.771105
+Traffic Detector,15472450.2013.771105
+Car Following Models,15472450.2013.801717
+Driver Behavior,15472450.2013.801717
+"GPS Experiments, Micro-Simulation",15472450.2013.801717
+Neural Networks,15472450.2013.801717
+Particle Swarm Algorithm,15472450.2013.801717
+Dynamic Multi-Objective Network Design Problem,15472450.2013.773250
+Dynamic Traffic Management Measures,15472450.2013.773250
+Evolutionary Algorithm,15472450.2013.773250
+Externalities,15472450.2013.773250
+Pareto Optimal Set,15472450.2013.773250
+Response Surface Methods,15472450.2013.773250
+ATIS,15472450.2013.802156
+Dynamics,15472450.2013.802156
+Equilibrium,15472450.2013.802156
+Signal Setting,15472450.2013.802156
+Stability,15472450.2013.802156
+Freeway Networks,15472450.2013.773225
+Lagrangian Coordinates,15472450.2013.773225
+Node Models,15472450.2013.773225
+Traffic State Estimation,15472450.2013.773225
+Congestion Spillback,15472450.2013.773249
+Dynamic Demand Estimation,15472450.2013.773249
+Dynamic Network Loading,15472450.2013.773249
+Large-Scale Networks,15472450.2013.773249
+Link Transmission Model,15472450.2013.773249
+Dual Loop Detectors,15472450.2013.802152
+Motorway,15472450.2013.802152
+Offline Travel Time Estimation,15472450.2013.802152
+Speed Interpolation,15472450.2013.802152
+Traffic Flow Theory,15472450.2013.802152
+Vehicle Trajectories,15472450.2013.802152
+Delay Distribution,15472450.2013.802155
+Genetic Algorithm,15472450.2013.802155
+Least Squares,15472450.2013.802155
+Maximum Likelihood,15472450.2013.802155
+Overflow Queue Distribution,15472450.2013.802155
+Urban Travel Time Distribution,15472450.2013.802155
+Maintenance,15472450.2013.801712
+Mixed-Integer Linear-Programming,15472450.2013.801712
+Railway Planning,15472450.2013.801712
+Rolling Stock Circulation,15472450.2013.801712
+Distributed Rescheduling,15472450.2013.801714
+Microsimulation,15472450.2013.801714
+Railway Traffic Management,15472450.2013.801714
+Timetable Assessment,15472450.2013.801714
+Train Delay Propagation,15472450.2013.801714
+Airport Ground Traffic Management,15472450.2013.802160
+Equipment Allocation,15472450.2013.802160
+Robust Assignment,15472450.2013.802160
+Sequential Heuristic,15472450.2013.802160
+Human Error,15472450.2013.785327
+In-Vehicle Navigation System,15472450.2013.785327
+ITS,15472450.2013.785327
+Markov Decision Process,15472450.2013.785327
+Travel Time Reliability,15472450.2013.785327
+Single-Loop Detectors,15472450.2013.801708
+Speed Estimation,15472450.2013.801708
+Traffic Surveillance,15472450.2013.801708
+Trucks,15472450.2013.801708
+Extended Floating Car Data,15472450.2013.801711
+Freeway Performance,15472450.2013.801711
+Linear Regression,15472450.2013.801711
+Traffic Occupancy Estimation,15472450.2013.801711
+Cluster Analysis,15472450.2013.802151
+Nonintrusive Data Collection,15472450.2013.802151
+Time-of-Day Breakpoints,15472450.2013.802151
+Dynamic Traffic Assignment Models,15472450.2013.806851
+Reliable Shortest Path Problem,15472450.2013.806851
+Stochastic Time-Dependent Network,15472450.2013.806851
+Travel Time Reliability,15472450.2013.806851
+ETC Data,15472450.2013.806858
+OD Estimation,15472450.2013.806858
+Traffic Demand,15472450.2013.806858
+Traffic Simulation,15472450.2013.806858
+In-Laboratory Experiment,15472450.2013.806847
+Mixed Logit Model,15472450.2013.806847
+Travel Time Distribution,15472450.2013.806847
+Travel Time Information,15472450.2013.806847
+Route Choice Behavior,15472450.2013.806847
+Curve Model,15472450.2013.810994
+Duration Time,15472450.2013.810994
+Lane Change,15472450.2013.810994
+Trajectories Clustering,15472450.2013.810994
+Congestion,15472450.2013.824757
+Deterministic Queuing Theory,15472450.2013.824757
+Incident Induced Delay,15472450.2013.824757
+Ridge Regression,15472450.2013.824757
+Short-Term Traffic Flow Forecast,15472450.2013.824757
+Artificial Intelligence,15472450.2013.824762
+Mode Detection,15472450.2013.824762
+Neural Networks,15472450.2013.824762
+Smartphone,15472450.2013.824762
+Traffic Monitoring,15472450.2013.824762
+Evacuation,15472450.2013.824763
+Mixed Flow,15472450.2013.824763
+Optimization,15472450.2013.824763
+Pedestrian,15472450.2013.824763
+GNSS,15472450.2013.836927
+Navigation,15472450.2013.836927
+Quality of Service,15472450.2013.836927
+Routing,15472450.2013.836927
+Route Planning,15472450.2013.836927
+Mixed Integer Programming,15472450.2013.836928
+One-Way Car-Sharing,15472450.2013.836928
+Transportation Demand Management,15472450.2013.836928
+Value of Information,15472450.2013.836928
+Kalman Filter,15472450.2013.836929
+Structural State Space Model,15472450.2013.836929
+Traffic State Estimation and Prediction,15472450.2013.836929
+Car-Truck Interaction,15472450.2013.806846
+Cell Transmission Model,15472450.2013.806846
+Dynamic Traffic Assignment,15472450.2013.806846
+Linear Programming,15472450.2013.806846
+System Optimal,15472450.2013.806846
+Link-Varying Discretization,15472450.2013.806753
+Simulation-Based Dynamic Traffic Assignment,15472450.2013.806753
+Time-Dependent Shortest Path,15472450.2013.806753
+Time-Varying Discretization,15472450.2013.806753
+Variable Time Discretization,15472450.2013.806753
+Genetic Programming,15472450.2013.806764
+Growing Hierarchical Self-Organizing Map,15472450.2013.806764
+Rolling Self-Structured Traffic Patterns,15472450.2013.806764
+Traffic Prediction,15472450.2013.806764
+Data Fusion,15472450.2013.806844
+Heterogeneous Traffic Flow,15472450.2013.806844
+Kalman Filter,15472450.2013.806844
+Time-Series Analysis,15472450.2013.806844
+Traffic Density Estimation and Prediction,15472450.2013.806844
+ATIS,15472450.2013.806745
+Corridor,15472450.2013.806745
+Multimodal,15472450.2013.806745
+Population Density,15472450.2013.806745
+Prospect Theory,15472450.2013.806745
+Travel Mode Choice,15472450.2013.806745
+EM Algorithm,15472450.2013.806761
+Maximum-Likelihood Estimation,15472450.2013.806761
+Plate Scanning,15472450.2013.806761
+Trip Chaining,15472450.2013.806761
+Alternative Work Schedules,15472450.2013.806736
+Dynamic User Equilibrium,15472450.2013.806736
+Optimization,15472450.2013.806736
+Quadratic Assignment,15472450.2013.806736
+Staggered Work Hours,15472450.2013.806736
+Artificial Neural Networks,15472450.2013.806843
+Incident Detection,15472450.2013.806843
+Signalized Traffic Intersections,15472450.2013.806843
+Urban Arterial,15472450.2013.806843
+Abstract Coordination Mechanism,15472450.2014.889953
+Multi-Agent Optimization,15472450.2014.889953
+Vehicle Routing Problem With Time Windows (VRPTW),15472450.2014.889953
+Adaptive Cruise Control,15472450.2014.889960
+Human-Agent Systems,15472450.2014.889960
+Machine Learning,15472450.2014.889960
+User Profiling,15472450.2014.889960
+Agent-Based Modeling and Simulation,15472450.2013.856718
+Groups,15472450.2013.856718
+Interdisciplinary Approaches,15472450.2013.856718
+Pedestrian and Crowd Simulation,15472450.2013.856718
+Driver Behavior,15472450.2014.889964
+Highway Simulation,15472450.2014.889964
+Multi-Agent Simulation,15472450.2014.889964
+Agent-Based Modeling,15472450.2013.856721
+Black Spot,15472450.2013.856721
+Spatially Explicit Modeling,15472450.2013.856721
+Traffic Accidents,15472450.2013.856721
+Ant-Inspired,15472450.2014.941758
+Multiagent-Based Simulation (MABS),15472450.2014.941758
+Routing,15472450.2014.941758
+Traffic Simulation,15472450.2014.941758
+Journey Planning,15472450.2014.941759
+Multiagent Planning,15472450.2014.941759
+Multimodal Transport,15472450.2014.941759
+Public Transport,15472450.2014.941759
+Ridesharing,15472450.2014.941759
+Behavior Change,15472450.2013.856714
+Smartphone Location Tracking,15472450.2013.856714
+Sustainability,15472450.2013.856714
+Travel Feedback,15472450.2013.856714
+Combined Discrete and Latent Variable Model,15472450.2015.1012865
+Mobile Devices,15472450.2015.1012865
+Rescheduling of Activities,15472450.2015.1012865
+Traffic Information,15472450.2015.1012865
+Traffic Information Seekers Through Mobile Devices,15472450.2015.1012865
+Accelerometer,15472450.2013.764796
+Bluetooth,15472450.2013.764796
+GPS,15472450.2013.764796
+Multimodal Map Matching,15472450.2013.764796
+Smartphone Data,15472450.2013.764796
+Transport Mode Inference,15472450.2013.764796
+Centralized Routing,15472450.2013.856712
+Fastest Path Problem,15472450.2013.856712
+Intermodal Networks,15472450.2013.856712
+Real-Time Multimodal Fastest Path Problem Under Constraints,15472450.2013.856712
+Resource-Constrained Shortest Path Problem,15472450.2013.856712
+Marginal Rates of Substitution,15472450.2014.936284
+Ordered Probit Model,15472450.2014.936284
+Privacy,15472450.2014.936284
+Stated-Preference Survey,15472450.2014.936284
+Willingness to Pay,15472450.2014.936284
+Connected Vehicle,15472450.2014.977043
+Dilemma Zone Protection,15472450.2014.977043
+Markov Process,15472450.2014.977043
+Simulation,15472450.2014.977043
+Traffic Signal Control,15472450.2014.977043
+VISSIM,15472450.2014.977043
+Incident Delays,15472450.2014.977049
+Microscopic Simulation,15472450.2014.977049
+Secondary Incidents,15472450.2014.977049
+Automatic Incident Detection,15472450.2014.977046
+Traffic Flow Density Fluctuation,15472450.2014.977046
+Urban Expressway,15472450.2014.977046
+Algorithm,15472450.2013.836930
+Fixed Interval,15472450.2013.836930
+SDVSP,15472450.2013.836930
+Vehicle Scheduling,15472450.2013.836930
+Bayesian Network,15472450.2013.856724
+High-Level Situation Assessment,15472450.2013.856724
+Temporal Filtering,15472450.2013.856724
+Visual Evidence,15472450.2013.856724
+Bluetooth Technology,15472450.2013.856727
+Detection Zone,15472450.2013.856727
+Discovery Procedure,15472450.2013.856727
+Travel Time Estimation,15472450.2013.856727
+Arterial Signalized Intersection,15472450.2013.857197
+Kinematic Equations,15472450.2013.857197
+Mobile Sensors,15472450.2013.857197
+Queue Length,15472450.2013.857197
+Queue Location,15472450.2013.857197
+Signal Performance Measurement,15472450.2013.857197
+Cellular Phone Networks,15472450.2014.892380
+Fuzzy Classification,15472450.2014.892380
+Genetic Algorithms,15472450.2014.892380
+Swarm Clustering,15472450.2014.892380
+Traffic Surveillance,15472450.2014.892380
+ATDM,15472450.2014.893736
+Heterogeneous Links,15472450.2014.893736
+Macroscopic Traffic Flow Model,15472450.2014.893736
+METANET,15472450.2014.893736
+Bayesian Model,15472450.2014.936289
+Game Theory,15472450.2014.936289
+Route Choice,15472450.2014.936289
+Traveler Heterogeneity,15472450.2014.936289
+Artificial Neural Networks,15472450.2014.936292
+Genetic Algorithms,15472450.2014.936292
+Microsimulation,15472450.2014.936292
+Signalized Intersections,15472450.2014.936292
+Transit Signal Priority,15472450.2014.936292
+Freeway Control,15472450.2014.936294
+Microsimulation,15472450.2014.936294
+Safety,15472450.2014.936294
+Space Mean Speed,15472450.2014.936294
+Variable Speed Limit,15472450.2014.936294
+Vehicle Probes,15472450.2014.936294
+Classification Monitoring,15472450.2014.941750
+Detector Performance Monitoring,15472450.2014.941750
+LIDAR,15472450.2014.941750
+Vehicle Classification,15472450.2014.941750
+Arterial Incident Detection,15472450.2014.972762
+Automated Incident Detection,15472450.2014.972762
+Travel Time Data,15472450.2014.972762
+Vehicle Reidentification Systems,15472450.2014.972762
+Active Traffic Management; Before and After Evaluation; Capacity; Traffic Control; Variable Speed Limits,15472450.2014.989718
+Information Services,15472450.2014.995760
+Intelligent Transportation Systems,15472450.2014.995760
+Probe Vehicles,15472450.2014.995760
+Travel Time,15472450.2014.995760
+Cellular Probe System; Handoff System; Integration Method; Loop Detector Placement; Traffic Speed,15472450.2014.1000456
+Agent-Based Traffic Control,15472450.2014.889935
+Connected Vehicle,15472450.2014.889935
+Cyber Transportation Systems,15472450.2014.889935
+Fairness in Traffic Control,15472450.2014.889935
+Trip-Delay,15472450.2014.889935
+Connected Vehicles,15472450.2014.889918
+Cooperative Cruise Control,15472450.2014.889918
+Intersection Management,15472450.2014.889918
+Eco-Cruise Control,15472450.2014.889916
+Eco-Drive Systems,15472450.2014.889916
+Traffic Signals,15472450.2014.889916
+Vehicle Control,15472450.2014.889916
+Vehicle Fuel Optimization,15472450.2014.889916
+Connected Vehicles,15472450.2014.889926
+Intelligent Transportation Systems,15472450.2014.889926
+Trajectory Prediction,15472450.2014.889926
+Calibration; Connected Vehicles; NCTUns; Packet Drop Rate; Wireless Communication,15472450.2014.889924
+Connected Vehicle,15472450.2014.889941
+Regional Traffic Simulation,15472450.2014.889941
+Safety Pilot,15472450.2014.889941
+V2V,15472450.2014.889941
+Connected Vehicles,15472450.2014.889920
+Driving Simulators,15472450.2014.889920
+Integrated Simulator,15472450.2014.889920
+Networking Simulators,15472450.2014.889920
+Traffic Simulation,15472450.2014.889920
+Absolute Time,15472450.2014.889932
+Collaborative Driving Systems,15472450.2014.889932
+Multiple Stack Architecture,15472450.2014.889932
+Protocol Verification,15472450.2014.889932
+Coefficient of Variation,15472450.2014.1000455
+Correlation,15472450.2014.1000455
+GPS Spot Speed Distribution,15472450.2014.1000455
+Truck Probe GPS Data,15472450.2014.1000455
+Truck Travel Time Reliability,15472450.2014.1000455
+Cellular Telephones,15472450.2014.1001027
+Performance Evaluations,15472450.2014.1001027
+Traffic Speed,15472450.2014.1001027
+Traffic Surveillance,15472450.2014.1001027
+Digital Signal Processing,15472450.2015.1004063
+Machine Learning,15472450.2015.1004063
+Road Vehicle Detection and Classification,15472450.2015.1004063
+Vibration Sensors,15472450.2015.1004063
+Bus,15472450.2015.1011638
+Prediction Scheme,15472450.2015.1011638
+Real-Time Information,15472450.2015.1011638
+Reliability,15472450.2015.1011638
+Waiting Time,15472450.2015.1011638
+Missing Data,15472450.2015.1015721
+Spatial–Temporal Correlation,15472450.2015.1015721
+Tensor Completion,15472450.2015.1015721
+Tensor Model,15472450.2015.1015721
+Traffic Volume Data,15472450.2015.1015721
+Candidate Road,15472450.2015.1015847
+Driving Road Identification,15472450.2015.1015847
+Elevation,15472450.2015.1015847
+Map Matching,15472450.2015.1015847
+Matching System,15472450.2015.1015847
+Adaptive Cruise Control (ACC),15472450.2015.1016023
+Cooperative Adaptive Cruise Control (CACC),15472450.2015.1016023
+Cooperative Vehicles,15472450.2015.1016023
+Intelligent Transportation Systems (ITS),15472450.2015.1016023
+Intelligent Vehicles,15472450.2015.1016023
+Duration Modeling,15472450.2015.1037955
+Internet of Things,15472450.2015.1037955
+Neural Networks,15472450.2015.1037955
+Parking Occupancy,15472450.2015.1037955
+Parking Sensors,15472450.2015.1037955
+Smart City,15472450.2015.1037955
+ITS,15472450.2016.1147813
+Missing Data,15472450.2016.1147813
+Multivariate Prediction,15472450.2016.1147813
+Neural Network,15472450.2016.1147813
+Traffic Flow Forecasting,15472450.2016.1147813
+Automated Screening Algorithm,15472450.2015.1052906
+Bluetooth Technology,15472450.2015.1052906
+Mode Identification,15472450.2015.1052906
+Mode-Specific Travel Time Estimation,15472450.2015.1052906
+Connected Vehicle,15472450.2015.1062728
+Microsimulation,15472450.2015.1062728
+Mobility,15472450.2015.1062728
+Safety,15472450.2015.1062728
+V2V,15472450.2015.1062728
+Auditory In-Vehicle Message,15472450.2015.1062729
+Automated/Connected Vehicles,15472450.2015.1062729
+DMS,15472450.2015.1062729
+Parking Lot,15472450.2015.1063424
+Repurchase Strategy,15472450.2015.1063424
+Simulation Optimization,15472450.2015.1063424
+Bargaining Problem,15472450.2015.1065740
+Container Terminal,15472450.2015.1065740
+Epsilon Equilibrium,15472450.2015.1065740
+Game Theory,15472450.2015.1065740
+Unloading Operations in Transshipment,15472450.2015.1065740
+Vessel Service,15472450.2015.1065740
+Kalman Filter,15472450.2015.1072050
+Prediction Methods,15472450.2015.1072050
+Traffic Information,15472450.2015.1072050
+Traffic Operations,15472450.2015.1072050
+Traffic Prediction,15472450.2015.1072050
+Uncertainty,15472450.2015.1072050
+mesoscopic simulation-based assignment,15472450.2016.1164047
+run-oriented assignment,15472450.2016.1164047
+real-time predictive traveler information,15472450.2016.1164047
+strategy-based transit path choice models,15472450.2016.1164047
+transit assignment,15472450.2016.1164047
+Public transportation,15472450.2016.1149699
+Satisfaction,15472450.2016.1149699
+Service Quality,15472450.2016.1149699
+Reliability,15472450.2016.1149699
+Smartphone data,15472450.2016.1149699
+adoption rate,15472450.2016.1191993
+logit model,15472450.2016.1191993
+smart card,15472450.2016.1191993
+structural equation modeling (SEM),15472450.2016.1191993
+transit system,15472450.2016.1191993
+Bayesian Neural Network,15472450.2015.1082428
+Decision Tree,15472450.2015.1082428
+Important Factors,15472450.2015.1082428
+Incident Duration,15472450.2015.1082428
+Rule Extaction,15472450.2015.1082428
+Abandoned Object,15472450.2015.1082910
+Feature Fusion,15472450.2015.1082910
+Multivehicle Tracking,15472450.2015.1082910
+Threat Degree Analysis,15472450.2015.1082910
+Forecasting,15472450.2015.1091735
+heteroscedasticity,15472450.2015.1091735
+hybrid model,15472450.2015.1091735
+time series,15472450.2015.1091735
+traffic flow,15472450.2015.1091735
+heterogeneous traffic data,15472450.2016.1149700
+nonparametric model,15472450.2016.1149700
+travel time prediction,15472450.2016.1149700
+GIS,15472450.2016.1151791
+machine learning algorithm,15472450.2016.1151791
+multimode trip information,15472450.2016.1151791
+personal trajectory data,15472450.2016.1151791
+trip mode detection,15472450.2016.1151791
+decentralized traffic management,15472450.2016.1151792
+domain decomposition,15472450.2016.1151792
+graph partitioning,15472450.2016.1151792
+intelligent transportation system,15472450.2016.1151792
+network partitioning,15472450.2016.1151792
+parallel computation,15472450.2016.1151792
+data fusion,15472450.2016.1153426
+extended generalized filter,15472450.2016.1153426
+loop detector,15472450.2016.1153426
+probe vehicle,15472450.2016.1153426
+traffic time,15472450.2016.1153426
+urban expressway,15472450.2016.1153426
+Collision warning,15472450.2015.1120674
+fuzzy inference,15472450.2015.1120674
+intelligent transport,15472450.2015.1120674
+license plate segmentation,15472450.2015.1120674
+rear-end collision,15472450.2015.1120674
+agent-based modeling,15472450.2016.1152549
+dynamic traffic management,15472450.2016.1152549
+network modeling,15472450.2016.1152549
+personalized traveler information,15472450.2016.1152549
+clustering,15472450.2016.1152891
+correlation identification,15472450.2016.1152891
+evolving Gustafson Kessel approach,15472450.2016.1152891
+severe driving events,15472450.2016.1152891
+GPS data,15472450.2016.1154764
+map matching,15472450.2016.1154764
+sampling frequency,15472450.2016.1154764
+travel time estimation,15472450.2016.1154764
+vehicle penetration rate,15472450.2016.1154764
+overlapping routes,15472450.2016.1157020
+route guidance strategy,15472450.2016.1157020
+self-regulation ability,15472450.2016.1157020
+stochastic traffic,15472450.2016.1157020
+urban road network,15472450.2016.1157020
+GPS,15472450.2016.1166058
+map-matching,15472450.2016.1166058
+road network,15472450.2016.1166058
+vehicle navigation,15472450.2016.1166058
+active traffic and demand management (ATDM),15472450.2016.1171151
+behaviorally induced system optimal,15472450.2016.1171151
+dynamic traffic assignment,15472450.2016.1171151
+system optimal,15472450.2016.1171151
+travel behaviour,15472450.2016.1171151
+travel demand management (TDM),15472450.2016.1171151
+sensor failure,15472450.2016.1194206
+sensor placement problem,15472450.2016.1194206
+stochastic program,15472450.2016.1194206
+prediction,15472450.2016.1196141
+support vector machines,15472450.2016.1196141
+unintentional lane departure,15472450.2016.1196141
+detection and count accuracy,15472450.2016.1198700
+microwave sensor,15472450.2016.1198700
+video sensor,15472450.2016.1198700
+vehicle detection technologies,15472450.2016.1198700
+Fisher Information Matrix,15472450.2016.1208568
+optimization,15472450.2016.1208568
+parameter identification,15472450.2016.1208568
+traffic modeling,15472450.2016.1208568
+bottleneck,15472450.2016.1163639
+stochastic capacity,15472450.2016.1163639
+stochastic demand,15472450.2016.1163639
+travel time variability,15472450.2016.1163639
+delay variability,15472450.2016.1216319
+performance evaluation,15472450.2016.1216319
+signalized intersection,15472450.2016.1216319
+travel time variability,15472450.2016.1216319
+urban arterial,15472450.2016.1216319
+CUSUM introduction,15472450.2016.1220306
+traffic data quality,15472450.2016.1220306
+weigh-in-motion,15472450.2016.1220306
+lane lines,15472450.2016.1247704
+vehicle positioning,15472450.2016.1247704
+vision,15472450.2016.1247704
+vehicle-to-infrastructure communication,15472450.2016.1247704
+connected vehicles,15472450.2016.1248288
+optimization,15472450.2016.1248288
+ramp control,15472450.2016.1248288
+VISSIM,15472450.2016.1248288
+autonomous driving,15472450.2016.1248288
+connected vehicle system,15472450.2016.1254045
+driving performance,15472450.2016.1254045
+human-machine interaction,15472450.2016.1254045
+multi-source detection data,15472450.2016.1254046
+queue length,15472450.2016.1254046
+traffic shockwave theory,15472450.2016.1254046
+traffic signals,15472450.2016.1254046
+freeway traffic,15472450.2016.1273779
+performance evaluation,15472450.2016.1273779
+SpeedInfo,15472450.2016.1273779
+speed measurement,15472450.2016.1273779
+breakdown prediction,15472450.2017.1279543
+decision tree,15472450.2017.1279543
+traffic breakdown,15472450.2017.1279543
+urban streets,15472450.2017.1279543
+car-following,15472450.2017.1283224
+lane-changing,15472450.2017.1283224
+naturalistic driving,15472450.2017.1283224
+data smoothing,15472450.2017.1283989
+intelligent transportation systems (ITS),15472450.2017.1283989
+machine learning method,15472450.2017.1283989
+short-term traffic prediction,15472450.2017.1283989
+bus rapid transit,15472450.2017.1286987
+transit signal priority,15472450.2017.1286987
+logistics,15472450.2017.1291350
+probe vehicles,15472450.2017.1291350
+routing,15472450.2017.1291350
+scheduling,15472450.2017.1291350
+bidirectional looking,15472450.2016.1254047
+cellular automaton model,15472450.2016.1254047
+driving behavior,15472450.2016.1254047
+safety performance,15472450.2016.1254047
+autonomous vehicles,15472450.2017.1315805
+lane-changing instruction,15472450.2017.1315805
+urban arterials,15472450.2017.1315805
+advanced driver assistance systems,15472450.2016.1247703
+cooperative systems,15472450.2016.1247703
+intelligent vehicles,15472450.2016.1247703
+V2V communications,15472450.2016.1247703
+vulnerable road users,15472450.2016.1247703
+connected vehicles,15472450.2017.1332524
+microsimulation,15472450.2017.1332524
+optimization,15472450.2017.1332524
+roadside equipments,15472450.2017.1332524
+travel time estimation,15472450.2017.1332524
+dynamic flow propagation of multiple units of information,15472450.2017.1334559
+inter-vehicle communication constraints,15472450.2017.1334559
+multi-layer framework,15472450.2017.1334559
+time-dependent vehicle knowledge,15472450.2017.1334559
+traffic flow dynamics,15472450.2017.1334559
+V2V communications based ATIS,15472450.2017.1334559
+bus stops,15472450.2016.1194760
+kinematic wave theory,15472450.2016.1194760
+real-time signal control,15472450.2016.1194760
+signalized intersection capacity,15472450.2016.1194760
+car-following models,15472450.2016.1198699
+driver behavior,15472450.2016.1198699
+genetic algorithm calibration,15472450.2016.1198699
+on-road experiment,15472450.2016.1198699
+vehicle instrumentation,15472450.2016.1198699
+Clustering algorithms,15472450.2016.1265890
+data-driven behavior,15472450.2016.1265890
+data mining,15472450.2016.1265890
+intelligent transport system,15472450.2016.1265890
+public transport,15472450.2016.1265890
+real time information,15472450.2016.1265890
+supervised classification,15472450.2016.1265890
+automatic vehicle identification (AVI),15472450.2017.1298037
+network analysis,15472450.2017.1298037
+sensor location problem,15472450.2017.1298037
+subroute travel times,15472450.2017.1298037
+traffic networks,15472450.2017.1298037
+behavior detection,15472450.2017.1305271
+dangerous driving behaviors,15472450.2017.1305271
+traffic safety,15472450.2017.1305271
+trajectory histograms,15472450.2017.1305271
+video surveillance system,15472450.2017.1305271
+driving,15472450.2017.1369060
+drowsiness,15472450.2017.1369060
+machine learning,15472450.2017.1369060
+sleep disorders,15472450.2017.1369060
+symbolic aggregate approximation,15472450.2017.1369060
+day-to-day variations,15472450.2017.1326116
+generalized risk-averse user equilibrium,15472450.2017.1326116
+heuristic gradient projection,15472450.2017.1326116
+reduction and equivalence,15472450.2017.1326116
+subjective-utility travel time budget,15472450.2017.1326116
+Moment ratios,15472450.2017.1326115
+statistical modeling,15472450.2017.1326115
+travel time variability,15472450.2017.1326115
+travel times,15472450.2017.1326115
+arterial,15472450.2017.1359093
+interrupted flow roadways,15472450.2017.1359093
+outsourced probe data,15472450.2017.1359093
+slowdown analysis,15472450.2017.1359093
+sampled distribution method,15472450.2017.1359093
+travel time,15472450.2017.1359093
+ex-post assessment,15472450.2017.1327815
+hard shoulder running,15472450.2017.1327815
+key performance indicators,15472450.2017.1327815
+managed lane,15472450.2017.1327815
+reliability,15472450.2017.1327815
+travel time,15472450.2017.1327815
+robust traffic assignment,15472450.2017.1358624
+travel time reliability,15472450.2017.1358624
+value of reliability,15472450.2017.1358624
+headways,15472450.2017.1326114
+operations research,15472450.2017.1326114
+railroads,15472450.2017.1326114
+reliability,15472450.2017.1326114
+timetables,15472450.2017.1326114
+acceleration and deceleration,15472450.2017.1358623
+global positioning systems (GPS),15472450.2017.1358623
+multiclass vehicle classification,15472450.2017.1358623
+support vector machine (SVM),15472450.2017.1358623
+GPS probe vehicles,15472450.2017.1300887
+lane identification,15472450.2017.1300887
+market penetration rate,15472450.2017.1300887
+queue length estimation,15472450.2017.1300887
+city logistics,15472450.2017.1309530
+ITS,15472450.2017.1309530
+real-time information,15472450.2017.1309530
+ROI,15472450.2017.1309530
+time-dependent travel times,15472450.2017.1309530
+vehicle routing,15472450.2017.1309530
+connected and automated vehicles,15472450.2017.1387546
+reinforcement learning,15472450.2017.1387546
+sustainable transportation,15472450.2017.1387546
+traffic signal control,15472450.2017.1387546
+vehicular emissions,15472450.2017.1387546
+intelligent traffic system,15472450.2017.1389650
+parallel processing,15472450.2017.1389650
+traffic surveillance,15472450.2017.1389650
+traffic stream,15472450.2017.1389650
+traffic offence,15472450.2017.1389650
+traffic control,15472450.2017.1371598
+bottleneck,15472450.2017.1371598
+ramp metering,15472450.2017.1371598
+travel time,15472450.2017.1371598
+variable speed limit,15472450.2017.1371598
+bi-objective,15472450.2017.1407652
+path finding,15472450.2017.1407652
+travel time distribution,15472450.2017.1407652
+travel time reliability,15472450.2017.1407652
+ANN,15472450.2017.1408013
+distribution,15472450.2017.1408013
+SRSM,15472450.2017.1408013
+traffic volume,15472450.2017.1408013
+travel time,15472450.2017.1408013
+urban arterial,15472450.2017.1408013
+automated number plate recognition,15472450.2017.1412829
+skewness,15472450.2017.1412829
+travel time standard deviation,15472450.2017.1412829
+travel time reliability,15472450.2017.1412829
+urban traffic,15472450.2017.1412829
+copula,15472450.2017.1413555
+pessimistic user equilibrium,15472450.2017.1413555
+travel time standard deviation,15472450.2017.1413555
+travel time reliability,15472450.2017.1413555
+Connected and automated vehicles,15472450.2017.1407930
+hierarchical control architecture,15472450.2017.1407930
+intersection coordination systems,15472450.2017.1407930
+multiple intersections,15472450.2017.1407930
+model predictive control,15472450.2017.1407930
+dynamic demand estimation problem,15472450.2017.1421462
+floating car data,15472450.2017.1421462
+origin-destination (OD) estimation,15472450.2017.1421462
+traffic modelling,15472450.2017.1421462
+SPSA,15472450.2017.1421462
+autonomous land vehicles,15472450.2017.1334558
+decision making,15472450.2017.1334558
+intelligent transportation systems,15472450.2017.1334558
+Markov processes,15472450.2017.1334558
+uncertainty,15472450.2017.1334558
+connected vehicle,15472450.2017.1413368
+information propagation,15472450.2017.1413368
+speed estimation,15472450.2017.1413368
+TRANSIMS,15472450.2017.1413368
+vehicle-to-vehicle (V2V),15472450.2017.1413368
+vehicle wireless communication,15472450.2017.1413368
+connected vehicle (CV),15472450.2016.1215921
+dynamic all-red extension (DARE),15472450.2016.1215921
+intersection,15472450.2016.1215921
+least squares support vector machines (LS-SVM),15472450.2016.1215921
+radar,15472450.2016.1215921
+red-light-running (RLR),15472450.2016.1215921
+automated highway system,15472450.2017.1404680
+automated lane changing,15472450.2017.1404680
+automated vehicles,15472450.2017.1404680
+Connected Vehicles,15472450.2017.1404680
+highway capacity,15472450.2017.1404680
+micro-simulation,15472450.2017.1404680
+Cooperative Adaptive Cruise Control (CACC),15472450.2018.1438275
+freeway capacity,15472450.2018.1438275
+on-ramp merging bottleneck,15472450.2018.1438275
+microscopic traffic simulation,15472450.2018.1438275
+High-resolution event-based data,15472450.2017.1299011
+input-output model,15472450.2017.1299011
+real-time queue length estimation,15472450.2017.1299011
+shock wave model,15472450.2017.1299011
+lane-change-related crash,15472450.2017.1309529
+lane-specific analysis,15472450.2017.1309529
+matched case control logistic,15472450.2017.1309529
+real-time traffic data,15472450.2017.1309529
+advanced public transit systems,15472450.2017.1313704
+bus lane,15472450.2017.1313704
+connected vehicle,15472450.2017.1313704
+intelligent transportation systems,15472450.2017.1313704
+intermittent and dynamic priority,15472450.2017.1313704
+Bayesian network,15472450.2017.1350921
+dilemma zone,15472450.2017.1350921
+distracted driving,15472450.2017.1350921
+driver behavior,15472450.2017.1350921
+phone use,15472450.2017.1350921
+arterial travel time distribution,15472450.2017.1365606
+energy and emissions,15472450.2017.1365606
+Gaussian mixture model (GMM),15472450.2017.1365606
+mean–standard deviation trade-off,15472450.2017.1396898
+ramp metering,15472450.2017.1396898
+space–time ARIMA,15472450.2017.1396898
+stochastic capacity,15472450.2017.1396898
+Bluetooth,15472450.2018.1457444
+cluster analysis,15472450.2018.1457444
+traffic mode differentiation,15472450.2018.1457444
+adaptive signal control,15472450.2017.1334205
+genetic algorithm,15472450.2017.1334205
+heuristic methods,15472450.2017.1334205
+simultaneous perturbation stochastic approximation,15472450.2017.1334205
+traffic signal timing optimization,15472450.2017.1334205
+crack detection,15472450.2017.1366320
+canny edge detector,15472450.2017.1366320
+DBSCAN,15472450.2017.1366320
+lane detection,15472450.2017.1366320
+low-volume roads,15472450.2017.1366320
+pavement distress,15472450.2017.1366320
+RANSAC,15472450.2017.1366320
+ridge detection,15472450.2017.1366320
+surface treated pavement,15472450.2017.1366320
+video processing,15472450.2017.1366320
+bus travel time estimation,15472450.2017.1378102
+<i>k</i>,15472450.2017.1378102
+-NN classifying algorithm,15472450.2017.1378102
+exponential smoothing,15472450.2017.1378102
+Kalman filtering,15472450.2017.1378102
+bus arrival information,15472450.2017.1378102
+bluetooth,15472450.2017.1384698
+genetic algorithm,15472450.2017.1384698
+neural network,15472450.2017.1384698
+short corridor,15472450.2017.1384698
+travel mode,15472450.2017.1384698
+bus progression,15472450.2017.1394191
+bus stops,15472450.2017.1394191
+effective bandwidth,15472450.2017.1394191
+stochastic dwell time,15472450.2017.1394191
+artificial intelligence (AI),15472450.2017.1394192
+convolutional neural network (CNN),15472450.2017.1394192
+deep learning,15472450.2017.1394192
+reinforcement learning (RL),15472450.2017.1394192
+traffic signal control systems,15472450.2017.1394192
+Cell Transmission Model,15472450.2017.1413981
+Dynamic Traffic Assignment,15472450.2017.1413981
+emission-based DTA formulation,15472450.2017.1413981
+time-scale,15472450.2017.1413981
+traffic signal control,15472450.2017.1413981
+vehicle holding-back problem,15472450.2017.1413981
+bootstrap,15472450.2017.1421075
+lognormal mixture model,15472450.2017.1421075
+resampling,15472450.2017.1421075
+sample size,15472450.2017.1421075
+travel time reliability,15472450.2017.1421075
+Activity,15472450.2018.1436968
+expert system,15472450.2018.1436968
+fuzzy logic,15472450.2018.1436968
+GPS,15472450.2018.1436968
+mobility,15472450.2018.1436968
+smartphone,15472450.2018.1436968
+trajectory,15472450.2018.1436968
+transport mode,15472450.2018.1436968
+travel,15472450.2018.1436968
+uncertainty,15472450.2018.1436968
+microsimulation,15472450.2018.1438274
+smart work zone,15472450.2018.1438274
+traffic estimation,15472450.2018.1438274
+inclement weather,15472450.2018.1439389
+road weather information system,15472450.2018.1439389
+environmental sensor stations,15472450.2018.1439389
+location problem,15472450.2018.1439389
+multi-objective optimization,15472450.2018.1439389
+assignment algorithm,15472450.2018.1441027
+Bayesian models,15472450.2018.1441027
+performance measurement,15472450.2018.1441027
+vehicle re-identification,15472450.2018.1441027
+weigh-in-motion,15472450.2018.1441027
+bikeshare,15472450.2018.1444484
+centrality,15472450.2018.1444484
+network modeling,15472450.2018.1444484
+road classification,15472450.2018.1444484
+trajectory,15472450.2018.1444484
+Traffic modeling,15472450.2018.1444485
+parameter identification,15472450.2018.1444485
+fisher information matrix,15472450.2018.1444485
+stochastic variation,15472450.2018.1444485
+optimization,15472450.2018.1444485
+Emergency vehicle,15472450.2018.1473156
+generalized extreme value distributions,15472450.2018.1473156
+influential factors,15472450.2018.1473156
+travel time reliability,15472450.2018.1473156
+Connected and autonomous vehicle,15472450.2018.1476146
+platoon estimation,15472450.2018.1476146
+platoon identification,15472450.2018.1476146
+traffic operations,15472450.2018.1476146
+wireless vehicle-to-vehicle communications,15472450.2018.1476146
+Copula,15472450.2018.1484738
+link correlations,15472450.2018.1484738
+signal coordination,15472450.2018.1484738
+travel time distribution,15472450.2018.1484738
+urban arterial,15472450.2018.1484738
+Artificial neural network,15472450.2018.1493929
+forecasting,15472450.2018.1493929
+traffic flow,15472450.2018.1493929
+wavelet transformation,15472450.2018.1493929
+Driver assistant system,15472450.2018.1506338
+driving style evaluation,15472450.2018.1506338
+fuzzy systems,15472450.2018.1506338
+maneuver detection,15472450.2018.1506338
+smartphones sensors,15472450.2018.1506338
+Dead reckoning,15472450.2018.1527693
+extended Kalman filter,15472450.2018.1527693
+map matching,15472450.2018.1527693
+self-localization,15472450.2018.1527693
+Congestion detection,15472450.2018.1502667
+coverage,15472450.2018.1502667
+probe data,15472450.2018.1502667
+sensor data,15472450.2018.1502667
+speed bias analysis,15472450.2018.1502667
+Bayesian network (BN),15472450.2018.1486192
+causality interpretation,15472450.2018.1486192
+probabilistic output,15472450.2018.1486192
+red-light-running (RLR) prediction,15472450.2018.1486192
+Behavioral change,15472450.2018.1488133
+functional data analysis,15472450.2018.1488133
+preplanned capacity reduction,15472450.2018.1488133
+regression analysis,15472450.2018.1488133
+smartphone data collection,15472450.2018.1488133
+traffic impact analysis,15472450.2018.1488133
+vehicle trajectory data,15472450.2018.1488133
+Driving style,15472450.2018.1525534
+instrumented vehicle,15472450.2018.1525534
+nonnegative matrix factorization,15472450.2018.1525534
+simulator,15472450.2018.1525534
+VSD,15472450.2018.1525534
+Accident duration prediction,15472450.2018.1536978
+Bayesian network,15472450.2018.1536978
+cost-sensitive,15472450.2018.1536978
+KNN regression,15472450.2018.1536978
+GPS probe data,15472450.2018.1470932
+link travel time,15472450.2018.1470932
+smart card data,15472450.2018.1470932
+station dwell time,15472450.2018.1470932
+travel time reliability,15472450.2018.1470932
+Emissions estimation,15472450.2018.1528447
+MOVES,15472450.2018.1528447
+operating mode,15472450.2018.1528447
+OpMode distribution,15472450.2018.1528447
+vehicle activity,15472450.2018.1528447
+Beam search algorithm,15472450.2018.1484739
+carpooling,15472450.2018.1484739
+exact solution method,15472450.2018.1484739
+mathematical model,15472450.2018.1484739
+transportation,15472450.2018.1484739
+Charging technologies,15472450.2018.1488131
+electric buses,15472450.2018.1488131
+optimal route design,15472450.2018.1488131
+optimal scheduling; transit operations planning process,15472450.2018.1488131
+Coordinated,15472450.2018.1488132
+railway,15472450.2018.1488132
+synchronized,15472450.2018.1488132
+timetabling,15472450.2018.1488132
+transfer,15472450.2018.1488132
+Fuzzy sets,15472450.2018.1525533
+high-speed rail,15472450.2018.1525533
+intelligent control system,15472450.2018.1525533
+system availability,15472450.2018.1525533
+Delay penalty cost,15472450.2018.1542303
+route guidance system,15472450.2018.1542303
+target arrival time,15472450.2018.1542303
+travel time disutility,15472450.2018.1542303
+travel time unreliability,15472450.2018.1542303
+Congestion,15472450.2018.1563865
+level of service,15472450.2018.1563865
+convolutional neural network,15472450.2018.1563865
+long short-term memory,15472450.2018.1563865
+support vector machine,15472450.2018.1563865
+Cellular automata,15472450.2018.1462176
+driving simulator,15472450.2018.1462176
+lane changing decision model,15472450.2018.1462176
+neural network,15472450.2018.1462176
+traffic flow simulation,15472450.2018.1462176
+Bus bunching,15472450.2018.1494596
+bus lane,15472450.2018.1494596
+public transport,15472450.2018.1494596
+travel time,15472450.2018.1494596
+Energy management,15472450.2018.1496428
+intersection traffic,15472450.2018.1496428
+speed regulation,15472450.2018.1496428
+traffic light,15472450.2018.1496428
+trip time,15472450.2018.1496428
+Mathematical programming,15472450.2018.1501273
+multi-agent system,15472450.2018.1501273
+signal control,15472450.2018.1501273
+traffic network,15472450.2018.1501273
+Multi-objective optimization,15472450.2018.1504294
+dynamic predictive control,15472450.2018.1504294
+traffic network,15472450.2018.1504294
+cell transmission model,15472450.2018.1504294
+genetic algorithm,15472450.2018.1504294
+2010 Mathematics Subject Classification. Primary,15472450.2018.1504294
+Flow estimation,15472450.2018.1506339
+large network,15472450.2018.1506339
+location problem,15472450.2018.1506339
+observability index,15472450.2018.1506339
+origin-destination estimation,15472450.2018.1506339
+vehicle identification sensor,15472450.2018.1506339
+Demand and supply mismatch,15472450.2018.1518137
+global positioning system data,15472450.2018.1518137
+multinomial logistic regression,15472450.2018.1518137
+spatio–temporal distribution,15472450.2018.1518137
+taxi service,15472450.2018.1518137
+Airports,15472450.2018.1473157
+gamification,15472450.2018.1473157
+logit models,15472450.2018.1473157
+probit models,15472450.2018.1473157
+smartphone applications,15472450.2018.1473157
+Autonomous vehicles,15472450.2018.1536859
+decentralized,15472450.2018.1536859
+intersection access,15472450.2018.1536859
+intersection control,15472450.2018.1536859
+Control sub-regions,15472450.2018.1557524
+macroscopic fundamental diagram,15472450.2018.1557524
+minimum road network unit,15472450.2018.1557524
+urban road network,15472450.2018.1557524
+Data compression,15472450.2018.1560280
+vehicle kinematics,15472450.2018.1560280
+vehicle trajectories,15472450.2018.1560280
+Active Pedestrian Evacuation Network (APEN),15472450.2018.1562348
+controlled flow,15472450.2018.1562348
+emergency evacuation,15472450.2018.1562348
+linear programming,15472450.2018.1562348
+multi-exit network,15472450.2018.1562348
+Navigation system,15472450.2018.1563864
+optimal control,15472450.2018.1563864
+quality measure,15472450.2018.1563864
+real-time traffic information,15472450.2018.1563864
+variable speed limit system,15472450.2018.1563864
+Fuel economy,15472450.2019.1578565
+signalized intersection,15472450.2019.1578565
+speed optimization,15472450.2019.1578565
+vehicle-to-infrastructure communication,15472450.2019.1578565
+Data processing,15472450.2018.1476147
+Kalman filtering,15472450.2018.1476147
+Lagrangian formulation,15472450.2018.1476147
+traffic state estimation,15472450.2018.1476147
+dynamic traffic routing,15472450.2018.1488218
+OmNet++,15472450.2018.1488218
+parking search,15472450.2018.1488218
+SUMO,15472450.2018.1488218
+Computational optimal control,15472450.2018.1562349
+connected and automated vehicle,15472450.2018.1562349
+lane change,15472450.2018.1562349
+multi-vehicle motion planning,15472450.2018.1562349
+trajectory planning,15472450.2018.1562349
+Passenger choice behavior,15472450.2019.1573366
+real-time,15472450.2019.1573366
+short turning strategy,15472450.2019.1573366
+transit service,15472450.2019.1573366
+waiting time,15472450.2019.1573366
+Complex road network,15472450.2019.1586543
+map-matching algorithm,15472450.2019.1586543
+taxi GPS data,15472450.2019.1586543
+trajectory,15472450.2019.1586543
+Critical node,15472450.2018.1527694
+deep reinforcement learning,15472450.2018.1527694
+traffic signal controller,15472450.2018.1527694
+tripartite graph,15472450.2018.1527694
+Connected and automated vehicles,15472450.2019.1699076
+location-based driving volatility,15472450.2019.1699076
+pre-installed data,15472450.2019.1699076
+informed decision-making,15472450.2019.1699076
+Clustering,15472450.2019.1615487
+GPS data,15472450.2019.1615487
+hazmat,15472450.2019.1615487
+transportation regulatory,15472450.2019.1615487
+trip purpose,15472450.2019.1615487
+Countermeasures,15472450.2019.1677160
+limited access facilities,15472450.2019.1677160
+optimization,15472450.2019.1677160
+risk modeling,15472450.2019.1677160
+wrong-way driving,15472450.2019.1677160
+Critical speed,15472450.2019.1579091
+data fusion,15472450.2019.1579091
+expressway bottleneck,15472450.2019.1579091
+fundamental diagram,15472450.2019.1579091
+oversaturated state,15472450.2019.1579091
+C0 complexity,15472450.2019.1579092
+Fourier transform,15472450.2019.1579092
+LSSVR,15472450.2019.1579092
+multistep prediction,15472450.2019.1579092
+parking spaces,15472450.2019.1579092
+Arterial signal coordination,15472450.2019.1579093
+connected vehicles (CV),15472450.2019.1579093
+platoon control,15472450.2019.1579093
+speed guidance,15472450.2019.1579093
+vehicle-to-X communication (V2X),15472450.2019.1579093
+Condition monitoring,15472450.2018.1542305
+friction estimation,15472450.2018.1542305
+locomotive,15472450.2018.1542305
+low adhesion,15472450.2018.1542305
+model-based,15472450.2018.1542305
+multiple models,15472450.2018.1542305
+roller-rig,15472450.2018.1542305
+swarm intelligence,15472450.2018.1542305
+test stand,15472450.2018.1542305
+Decision tree,15472450.2018.1542304
+ensemble method,15472450.2018.1542304
+Fourier series,15472450.2018.1542304
+gradient boosting,15472450.2018.1542304
+long-term prediction,15472450.2018.1542304
+travel time prediction,15472450.2018.1542304
+Direct strategy,15472450.2019.1582950
+iterated strategy,15472450.2019.1582950
+multivariate GBRT,15472450.2019.1582950
+multi-step-ahead prediction,15472450.2019.1582950
+traffic speed forecasting,15472450.2019.1582950
+Adaptive strategies,15472450.2019.1598863
+big data,15472450.2019.1598863
+driver origins,15472450.2019.1598863
+route guidance,15472450.2019.1598863
+Adaptive traffic control,15472450.2019.1614445
+Bayesian modeling,15472450.2019.1614445
+GPS floating car,15472450.2019.1614445
+SURTRAC,15472450.2019.1614445
+travel time reliability,15472450.2019.1614445
+volatility,15472450.2019.1614445
+VANETs,15472450.2019.1625042
+authentication,15472450.2019.1625042
+privacy preserving,15472450.2019.1625042
+revocation,15472450.2019.1625042
+security,15472450.2019.1625042
+Adaptive signal control,15472450.2019.1643723
+connected vehicle,15472450.2019.1643723
+genetic algorithm,15472450.2019.1643723
+dynamic platoon dispersion model,15472450.2019.1643723
+rolling horizon,15472450.2019.1643723
+penetration rate,15472450.2019.1643723
+Gaussian mixture model,15472450.2019.1659793
+global positioning systems (GPS),15472450.2019.1659793
+gross vehicle weight (GVW),15472450.2019.1659793
+spatial interpolation,15472450.2019.1659793
+weigh-in-motion (WIM),15472450.2019.1659793
+Internet of vehicles,15472450.2019.1612247
+small files correlation probability,15472450.2019.1612247
+small files merging scheme,15472450.2019.1612247
+prefetching and caching strategy,15472450.2019.1612247
+artificial intelligence,15472450.2019.1652826
+communication ring,15472450.2019.1652826
+data transmission time extension,15472450.2019.1652826
+directional networks,15472450.2019.1652826
+traffic video analysis,15472450.2019.1652826
+Guided filter (GF),15472450.2019.1643725
+image fusion,15472450.2019.1643725
+sparse representation (SR),15472450.2019.1643725
+weight map,15472450.2019.1643725
+altitude,15472450.2020.1721289
+communication range,15472450.2020.1721289
+Dedicated Short Range Communication (DSRC),15472450.2020.1721289
+on-board unit (OBU),15472450.2020.1721289
+safe pass advisory,15472450.2020.1721289
+vehicle-to-vehicle (V2V),15472450.2020.1721289
+AlexNet,15472450.2020.1742121
+Convolutional Neural Network (CNN),15472450.2020.1742121
+GoogLeNet,15472450.2020.1742121
+object classification,15472450.2020.1742121
+traffic congestion,15472450.2020.1742121
+Urban traffic,15472450.2019.1642753
+IR image enhancement,15472450.2019.1642753
+Retinex theory,15472450.2019.1642753
+image correlation,15472450.2019.1642753
+Convolutional Neural Network,15472450.2019.1670659
+image coding,15472450.2019.1670659
+intelligent vehicles,15472450.2019.1670659
+multimedia,15472450.2019.1670659
+traffic surveillance,15472450.2019.1670659
+Before-after analysis,15472450.2019.1638782
+comparison,15472450.2019.1638782
+countermeasures,15472450.2019.1638782
+turn arounds,15472450.2019.1638782
+wrong way driving (WWD),15472450.2019.1638782
+Cell transmission model,15472450.2019.1638780
+robust optimization,15472450.2019.1638780
+robustness analysis,15472450.2019.1638780
+scenario optimization,15472450.2019.1638780
+traffic assignment,15472450.2019.1638780
+Critical pore,15472450.2020.1735385
+filtering,15472450.2020.1735385
+motorcycle,15472450.2020.1735385
+motorized two-wheeler,15472450.2020.1735385
+pore size,15472450.2020.1735385
