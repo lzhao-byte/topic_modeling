@@ -1,4 +1,4 @@
-# topic_modeling
+# topic and community analysis on jits
 
 - data collection folder contains the code for downloading jits paper information
 - papers info folder contains collected and processed jits paper information
